@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css?family=Titillium+Web");
+
+@import "../node_modules/uikit/dist/scss/uikit-mixins";
+@import "../node_modules/uikit/dist/scss/uikit-variables";
+
+@import "styles/variables";
+
+@import "../node_modules/uikit/dist/scss/core/base";
+@import "../node_modules/uikit/dist/scss/core/list";
+@import "../node_modules/uikit/dist/scss/core/text";
+@import "../node_modules/uikit/dist/scss/core/utility";
+@import "../node_modules/uikit/dist/scss/core/grid";
+@import "../node_modules/uikit/dist/scss/core/column";
+@import "../node_modules/uikit/dist/scss/core/navbar";
+@import "../node_modules/uikit/dist/scss/core/nav";
+@import "../node_modules/uikit/dist/scss/core/button";
+@import "../node_modules/uikit/dist/scss/core/panel";
+@import "../node_modules/uikit/dist/scss/core/overlay";
+@import "../node_modules/uikit/dist/scss/core/form";
+@import "../node_modules/uikit/dist/scss/core/icon";
+@import "../node_modules/uikit/dist/scss/core/animation";
+@import "../node_modules/uikit/dist/scss/core/flex";
+@import "../node_modules/uikit/dist/scss/core/modal";
+@import "../node_modules/uikit/dist/scss/core/alert";
+@import "../node_modules/uikit/dist/scss/components/notify";
+
+body {
+  overflow-x: hidden;
+}
+
